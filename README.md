@@ -1,8 +1,8 @@
 ## Asignatura PRO1 de la FIB - UPC
-Estos son algunos de los problemas a resolver durante la asignatura de Programación 1. Estan resueltos usando el lenguage [https://cplusplus.com/](C++)
+Estos son algunos de los problemas a resolver durante la asignatura de Programación 1. Estan resueltos usando el lenguage [C++](https://cplusplus.com/)
 
 ## Compilación y ejecución de los programas
-Para compilar el programa se puede usar con el compilador g++ (parte del compilador [https://gcc.gnu.org/](gcc).
+Para compilar el programa se puede usar con el compilador g++ (parte del compilador [gcc](https://gcc.gnu.org/).
 
 `g++ -o "nombre_jectuable" "nombre_programa.cpp"`
 
@@ -12,7 +12,9 @@ El comando con los flags exactos que se usan en la asignatura son:
 -Wno-sign-compare -Wshadow`
 
 Para poder testear el ejecutar el programa.
+
 `./nombre_ejecutable`
+
 En caso de tener algun test de entrada escrito se podria hacer mediante el comando.
 
 `./nombre ejecutable < "test_input" > "test_output"`.
